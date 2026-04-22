@@ -34,13 +34,7 @@ Worked at **ModelSuite.ai (Germany, Remote)** and **Originn (IIT Madras Startup)
 
 ---
 
-## Achievements
 
-- **Meta Hacker Cup 2024** — Rank 7,900 out of 22,000 participants
-- **International remote experience** — Fullstack Developer, ModelSuite.ai, Germany
-- **IIT Madras startup founding member** — Originn, built and deployed under IIT Madras program
-
----
 
 ## GitHub stats
 
