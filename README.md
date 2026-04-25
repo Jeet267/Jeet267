@@ -18,7 +18,6 @@
 ---
 
 Building scalable MERN apps with clean UI and real-world impact.
-Worked at **ModelSuite.ai (Germany, Remote)** and **Originn (IIT Madras Startup)**.
 
 ---
 
